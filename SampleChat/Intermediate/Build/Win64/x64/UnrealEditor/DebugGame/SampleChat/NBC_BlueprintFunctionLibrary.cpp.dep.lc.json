@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\source\\samplechat\\private\\nbc_blueprintfunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\x64\\samplechateditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\samplechat\\definitions.samplechat.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\source\\samplechat\\public\\nbc_blueprintfunctionlibrary.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\unrealeditor\\inc\\samplechat\\uht\\nbc_blueprintfunctionlibrary.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\source\\samplechat\\public\\nbc_gameinstance.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\unrealeditor\\inc\\samplechat\\uht\\nbc_gameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

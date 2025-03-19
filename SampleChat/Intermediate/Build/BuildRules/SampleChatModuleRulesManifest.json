@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\qordl\\Documents\\Unreal Projects\\SampleChat\\Source\\SampleChat\\SampleChat.Build.cs",
+		"C:\\Users\\qordl\\Documents\\Unreal Projects\\SampleChat\\Source\\SampleChat.Target.cs",
+		"C:\\Users\\qordl\\Documents\\Unreal Projects\\SampleChat\\Source\\SampleChatEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

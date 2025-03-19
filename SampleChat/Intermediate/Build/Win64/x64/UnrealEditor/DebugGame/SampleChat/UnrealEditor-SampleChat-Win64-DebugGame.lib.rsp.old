@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SampleChat-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\SampleChatEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\BaseBallActor.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\NBC_BlueprintFunctionLibrary.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\NBC_GameInstance.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\NBC_GameMode.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\SampleChat.init.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\SampleChat.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\BaseBallActor.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\NBC_BlueprintFunctionLibrary.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\NBC_GameInstance.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\NBC_GameMode.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\PerModuleInline.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\Default.rc2.res"
+/OUT:"C:\Users\qordl\Documents\Unreal Projects\SampleChat\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SampleChat\UnrealEditor-SampleChat-Win64-DebugGame.lib"

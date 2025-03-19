@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\unrealeditor\\inc\\samplechat\\uht\\samplechat.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\x64\\samplechateditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\samplechat\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\samplechat\\definitions.samplechat.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
